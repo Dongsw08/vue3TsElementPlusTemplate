@@ -1,0 +1,42 @@
+[
+    {
+        "title": "iphone13 pro max",
+        "uuid": "eab0390f1b3a7c7062d19429b48bc7c4",
+        "remain": 158,
+        "sold":50,
+        "description": "苹果手机",
+        "status": 1
+    },
+    {
+        "title": "PS5",
+        "uuid": "60a37aaf61b5fabdbe32269086faaafe",
+        "remain": 258,
+        "sold":25,
+        "description": "游戏机",
+        "status": 1
+    },
+    {
+        "title": "ipad",
+        "uuid": "09401fded433c34709fd1f1872728162",
+        "remain": 70,
+        "sold":12,
+        "description": "ipad",
+        "status": 2
+    },
+    {
+        "title": "DELL显示器",
+        "uuid": "d90c1f061886db1e47cea7771f2dbf28",
+        "remain": 20,
+        "sold":105,
+        "description": "显示器",
+        "status": 2
+    },
+    {
+        "title": "电源线",
+        "uuid": "1f33265da113b2e5d953e7a14d065619",
+        "remain": 20,
+        "sold":15,
+        "description": "电源线",
+        "status": 2
+    }
+]
