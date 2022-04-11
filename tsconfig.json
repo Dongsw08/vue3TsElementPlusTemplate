@@ -37,6 +37,8 @@
       ],
   
       "isolatedModules": true,
+
+      "jsx": "preserve",
   
       // 模块名到基于 baseUrl的路径映射的列表。
       "paths": {
